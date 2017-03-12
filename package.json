@@ -1,0 +1,26 @@
+{
+  "name": "mahapragyajankalyan",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.5.1",
+    "mongoose": "~3.8.0",
+    "body-parser": "~1.4.2",
+    "method-override": "~2.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "This is a repo for a starter appliation for a Single Page MEAN Stack application. Just download and install and you have a good foundation for building application.",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskanbararia/mahapragyajankalyan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muskanbararia/mahapragyajankalyan/issues"
+  },
+  "homepage": "https://github.com/muskanbararia/mahapragyajankalyan#readme"
+}
